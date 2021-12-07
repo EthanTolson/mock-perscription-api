@@ -1,105 +1,102 @@
-{
-    "perscriptions": 
-    [
+[
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "acetaminophen",
+            "description": "Used to treat fever and mild to moderate pain.",
+            "wikiurl": "wikipedia.org/wiki/acetaminophen"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "ibuprofen",
+            "description": "Medication in the nonsteroidal anti-inflammatory drug (NSAID) class that is used for treating pain, fever, and inflammation.",
+            "wikiurl": "wikipedia.org/wiki/ibuprofen"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "naproxen",
+            "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain, menstrual cramps, inflammatory diseases such as rheumatoid arthritis, gout and fever.",
+            "wikiurl": "wikipedia.org/wiki/naproxen"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "morphine",
+            "description": "A pain medication of the opiate family. Taken for both acute pain and chronic pain",
+            "wikiurl": "wikipedia.org/wiki/morphine"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "hydromorphone",
+            "description": "An opioid used to treat moderate to severe pain.",
+            "wikiurl": "wikipedia.org/wiki/hydromorphone"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "oxycodone",
+            "description": "An opioid medication used for treatment of moderate to severe pain.",
+            "wikiurl": "wikipedia.org/wiki/oxycodone"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "flurbiprofen",
+            "description": "Nonsteroidal anti-inflammatory drug (NSAID). It is primarily indicated as a pre-operative anti-miotic.",
+            "wikiurl": "wikipedia.org/wiki/flurbiprofen"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "piroxicam",
+            "description": "A nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class used to relieve the symptoms of painful inflammatory conditions like arthritis.",
+            "wikiurl": "wikipedia.org/wiki/piroxicam"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "indomethacin",
+            "description": "A nonsteroidal anti-inflammatory drug (NSAID) commonly used as a prescription medication to reduce fever, pain, stiffness, and swelling from inflammation.",
+            "wikiurl": "wikipedia.org/wiki/indomethacin"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "ketorolac",
+            "description": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain.",
+            "wikiurl": "wikipedia.org/wiki/ketorolac"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "fentanyl",
+            "description": "A powerful opioid used as a pain medication and, together with other medications, for anesthesia.",
+            "wikiurl": "wikipedia.org/wiki/fentanyl"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "lidocaine",
+            "description": "A local anesthetic of the amino amide type. It is also used to treat ventricular tachycardia.",
+            "wikiurl": "wikipedia.org/wiki/lidocaine"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "bupivacaine",
+            "description": "A medication used to decrease feeling in a specific area.",
+            "wikiurl": "wikipedia.org/wiki/bupivacaine"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "penicillin",
+            "description": "A group of antibiotics originally obtained from Penicillium moulds.",
+            "wikiurl": "wikipedia.org/wiki/penicillin"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "amoxicillin",
+            "description": "An antibiotic used to treat a number of bacterial infections.",
+            "wikiurl": "wikipedia.org/wiki/amoxicillin"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "minocycline",
+            "description": "A tetracycline antibiotic medication used to treat a number of bacterial infections such as pneumonia.",
+            "wikiurl": "wikipedia.org/wiki/minocycline"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "tetracycline",
+            "description": "An oral antibiotic in the tetracyclines family of medications, used to treat a number of infections, including acne, cholera, brucellosis, plague, malaria, and syphilis.",
+            "wikiurl": "wikipedia.org/wiki/tetracycline"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "ofloxacin",
+            "description": "A quinolone antibiotic useful for the treatment of a number of bacterial infections.",
+            "wikiurl": "wikipedia.org/wiki/ofloxacin"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "fluconazole",
+            "description": "An antifungal medication used for a number of fungal infections.",
+            "wikiurl": "wikipedia.org/wiki/fluconazole"
         },
         {
-            "drugName": "",
-            "description": "",
-            "wikiurl": ""
+            "drugName": "mebendazole",
+            "description": "A medication used to treat a number of parasitic worm infestations.",
+            "wikiurl": "wikipedia.org/wiki/mebendazole"
         }
-    ]
-}
+]
